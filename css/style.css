@@ -1,0 +1,141 @@
+﻿html {
+	height: 100%;
+	margin-bottom: 1px;
+}
+body {
+	background-color: #FFFFFF;
+	cursor: default;
+	font-family: Arial,Helvetica,sans-serif;
+	font-size: 15px;
+}
+.spacer {
+	height: 15px;
+	width: 100%;
+}
+hr {
+	background-color: #CDCDCD;
+	border: 0 none;
+	color: #CCCCCC;
+	height: 1px;
+	text-align: left;
+	width: 100%;
+}
+p {
+	background-color: #FFFFFF;
+	color: black;
+	line-height: 20px;
+	padding-bottom: 5px;
+	padding-right: 5px;
+	padding-top: 5px;
+	text-align: justify;
+}
+a {
+	background-color: #FFFFFF;
+	color: #478A9F;
+	text-decoration: none;
+}
+a:hover {
+	background-color: #FFFFFF;
+	color: #478A9F;
+	text-decoration: underline;
+}
+table {
+	padding: 5px;
+}
+ul {
+	list-style-type: square;
+}
+li {
+	margin-bottom: 5px;
+}
+h1 {
+	background-color: #FFFFFF;
+	color: #FF7F50;
+	font-family: Verdana,Helvetica,sans-serif;
+	font-size: 28px;
+	font-weight: 300;
+}
+h2 {
+	background-color: #FFFFFF;
+	color: gray;
+	font-family: Arial,Verdana,Helvetica,sans-serif;
+       font-size: 15px;
+       font-weight: 300;
+}
+h3 {
+color: #FF7F50;
+       font-size: 15px;
+       font-weight: 300;
+       margin-top: 5px;
+       padding-bottom: 5px;
+       padding-right: 5px;
+       padding-top: 5px;
+       text-align: left;
+}
+#container {
+	background-color: #FFFFFF;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: left;
+	width: 80%;
+}
+#header {
+	border-bottom: 1px solid silver;
+	float: left;
+       padding-top: 35px;
+	width: 100%;
+}
+#studentname {
+	float: left;
+	width: 80%;
+}
+#Image {
+	float: right;
+	width: 15%;
+}
+.image_big {
+	padding: 10px 10px 10px 10px;
+	height: 256;
+	width: 455;
+}
+.image_medium {
+	padding: 10px 10px 10px 10px;
+	height: 160;
+	width: 128;
+}
+#right {
+	background-color: #FFFFFF;
+	float: left;
+	padding: 15px 0 15px 15px;
+	width: 15%;
+}
+#main {
+	background-color: #FFFFFF;
+	float: right;
+	border-left: 1px solid silver;
+	padding: 15px 0 15px 15px;
+	width: 80%;
+}
+#footer {
+	clear: both;
+       font-family: Verdana,Arial,Helvetica,sans-serif;
+       font-size: 12px;
+}
+.left {
+	background-color: #FFFFFF;
+	color: gray;
+	float: left;
+    font-size: 100%;
+    margin-top: 5px;
+}
+.right {
+	background-color: #FFFFFF;
+	color: gray;
+	float: right;
+       font-size: 100%;
+       margin-top: 5px;
+}
+p.spaced {
+    line-height: 30px;
+    font-size: 17px;
+}
